@@ -1,0 +1,16 @@
+/* The slider itself */
+.circle {
+    height: 200px;
+    width: 200px;
+    background: url('../../assets/images/circle-right.svg') no-repeat;
+    background-size: contain;;
+}
+
+.head {
+    cursor: grab;
+    height: 180px;
+    width: 180px;
+    background: url('../../assets/images/head-tilt.svg') no-repeat center;
+    background-size: contain;
+    margin: 20px;
+}

@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `node server\webserver.js` to run the API server at `http://localhost:3000` that is proxied via `http://localhost:4200/api/`.
 
 ## Code scaffolding
 
